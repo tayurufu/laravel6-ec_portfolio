@@ -1,0 +1,6 @@
+*
+!public/
+!/photos/
+!/photos_sample/
+!/photos_sample/*
+!.gitignore
